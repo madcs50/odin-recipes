@@ -1,0 +1,3 @@
+Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+
+so i first learnt to create a git repository again keep forgetting how to do it super confusing but i think i will eventually get the hag of it then i will now exhibit my html skills if you want to call them that to create a list of recipies where each link will be sent to a new recipie i think i will make 10 recipies i think that should be a good start then i think thats about it :) lets get coding 
