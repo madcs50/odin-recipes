@@ -49,5 +49,7 @@ background-color: black;
     margin: 6px;
 }
 body{
+    height:auto;
+    width:220px;
     background-color: blanchedalmond;
 }
